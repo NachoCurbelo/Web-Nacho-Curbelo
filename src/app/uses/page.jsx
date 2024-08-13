@@ -54,6 +54,21 @@ export default function Uses() {
             virtual whiteboard for plenty of my jobs. Never would have expected
             the collaboration features to be the real hook
           </Tool>
+          <Tool title="Creative Suit">
+          I started using Figma as just a design tool but now it’s become my
+            virtual whiteboard for plenty of my jobs. Never would have expected
+            the collaboration features to be the real hook
+          </Tool>
+          <Tool title="Spline">
+          I started using Figma as just a design tool but now it’s become my
+            virtual whiteboard for plenty of my jobs. Never would have expected
+            the collaboration features to be the real hook
+          </Tool>
+          <Tool title="Google Slides">
+          I started using Figma as just a design tool but now it’s become my
+            virtual whiteboard for plenty of my jobs. Never would have expected
+            the collaboration features to be the real hook
+          </Tool>
         </ToolsSection>
         <ToolsSection title="Productivity">
           <Tool title="SavvyCal">

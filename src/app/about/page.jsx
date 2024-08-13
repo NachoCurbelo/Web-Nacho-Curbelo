@@ -58,40 +58,31 @@ export default function About() {
         </div>
         <div className="lg:order-first lg:row-span-2">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
-          I'm Ignacio Curbelo. Living in Montevideo, Uruguay, I design what's to come.
+          I'm Ignacio Curbelo. Living in Montevideo, Uruguay, I transform problems into ideas.
           </h1>
           <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
             <p>
-            I'm a 29-year-old self-taught freelance graphic designer with five years of experience as a photography editor for a food delivery app company. Now, I'm diving into UX/UI design, combining my previous knowledge with a passion for creating seamless user experiences.
+            I'm a 29-year-old self-taught freelance graphic and UX/UI designer with five years of experience as a photography editor for the #1 food delivery app in LATAM, part of Delivery Hero's greatest companys. During my journey at Pedidosya I've helped around 70,000 partners grow, drastically increased engagement rates and made the partners and company's revenue increase substantially. 
             </p>
             <p>
-            Since I was little, I've always been inclined to learn on my own. At the age of six, my curiosity about drummers led me to explore percussion. I built my first drum kit using cans and jars of various sizes, attempting to replicate the rhythms of songs. One day, my father noticed my passion and bought me my first real drum kit.
+            Since I was little, I've always been inclined to learn on my own. At the age of six, my curiosity about drumming led me to explore percussion. I built my first drum kit using cans and jars of various sizes, attempting to replicate the rhythms of songs. On the day I decided to start percussion classes, I realized that my previous curiosity and proactive approach to learning in my own way, greatly eased my learning curve when taking the classes. 
             </p>
             <p>
-            I embraced that proactive learning approach as a lifestyle, enhancing it with university studies in communication and design. Now, I'm an e-learner focused on UX/UI, and day to day boosting my expertise through self-teaching.
+            I embraced that proactive learning approach as a lifestyle, enhancing it with university studies in communication and design. Now, I'm an e-learner focused on advanced UX/UI design, and day to day boosting my expertise through self-teaching.
             </p>
           </div>
         </div>
         <div className="lg:pl-20">
           <ul role="list">
-            <SocialLink href="#" icon={XIcon}>
-              Follow on X
-            </SocialLink>
-            <SocialLink href="#" icon={InstagramIcon} className="mt-4">
-              Follow on Instagram
-            </SocialLink>
-            <SocialLink href="#" icon={GitHubIcon} className="mt-4">
-              Follow on GitHub
-            </SocialLink>
-            <SocialLink href="#" icon={LinkedInIcon} className="mt-4">
+            <SocialLink href="https://www.linkedin.com/in/ignacio-curbelo-b73631150/" icon={LinkedInIcon} className="mt-4">
               Follow on LinkedIn
             </SocialLink>
             <SocialLink
-              href="mailto:spencer@planetaria.tech"
+              href="mailto:nachocurbelo2024@gmail.com"
               icon={MailIcon}
               className="mt-8 border-t border-zinc-100 pt-8 dark:border-zinc-700/40"
             >
-              spencer@planetaria.tech
+              nachocurbelo2024@gmail.com
             </SocialLink>
           </ul>
         </div>

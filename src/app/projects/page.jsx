@@ -10,40 +10,27 @@ import logoPlanetaria from '@/images/logos/planetaria.svg'
 
 const projects = [
   {
-    name: 'Planetaria',
+    name: 'Gusto Go',
     description:
-      'Creating technology to empower civilians to explore space on their own terms.',
-    link: { href: 'http://planetaria.tech', label: 'planetaria.tech' },
+      'This was a inspirational UI design for a delivery food App.',
+    link: { href: 'https://www.behance.net/gallery/202054209/Food-app-inspirational-UI-Design', label: 'Behance' },
     logo: logoPlanetaria,
   },
   {
-    name: 'Animaginary',
+    name: 'Re-branding Platzi app',
     description:
-      'High performance web animation library, hand-written in optimized WASM.',
-    link: { href: '#', label: 'github.com' },
+      'This was a re-branding case study for a e-learning app called Platzi.',
+    link: { href: 'https://www.behance.net/gallery/204356325/Platzi-app-UXUI-Re-design', label: 'Behance' },
     logo: logoAnimaginary,
   },
   {
-    name: 'HelioStream',
+    name: 'Coming Soon',
     description:
-      'Real-time video streaming library, optimized for interstellar transmission.',
-    link: { href: '#', label: 'github.com' },
+      'Case study and craft of a Logistics Pick-up app.',
+    link: { href: '', label: '' },
     logo: logoHelioStream,
   },
-  {
-    name: 'cosmOS',
-    description:
-      'The operating system that powers our Planetaria space shuttles.',
-    link: { href: '#', label: 'github.com' },
-    logo: logoCosmos,
-  },
-  {
-    name: 'OpenShuttle',
-    description:
-      'The schematics for the first rocket I designed that successfully made it to orbit.',
-    link: { href: '#', label: 'github.com' },
-    logo: logoOpenShuttle,
-  },
+
 ]
 
 function LinkIcon(props) {
@@ -65,8 +52,8 @@ export const metadata = {
 export default function Projects() {
   return (
     <SimpleLayout
-      title="Things I’ve made trying to put my dent in the universe."
-      intro="I’ve worked on tons of little projects over the years but these are the ones that I’m most proud of. Many of them are open-source, so if you see something that piques your interest, check out the code and contribute if you have ideas for how it can be improved."
+      title="Works I've done to impart my knowledge in the field."
+      intro="Over the years, I've worked with friends on various startup projects, focusing on different aspects of UX/UI design. These collaborations have helped me grow and improve my skills. Here are some of the top recent projects and case studies I've worked on."
     >
       <ul
         role="list"
