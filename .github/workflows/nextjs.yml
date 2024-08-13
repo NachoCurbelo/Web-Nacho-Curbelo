@@ -24,7 +24,7 @@ jobs:
 
       - name: Build Next.js app
         env:
-          NEXT_PUBLIC_SITE_URL: "https://yourwebsite.com" # Replace with your actual site URL
+          NEXT_PUBLIC_SITE_URL: "https://ignaciocurbelo.design" # Replace with your actual site URL
         run: npm run build
 
       - name: Deploy to GitHub Pages
