@@ -79,7 +79,7 @@ export default function Uses() {
           Miro its like a supercharger to my productivity, It always simplifyed collaboration, planning, and communication with my team members, really leading to better project outcomes.
           </Tool>
           <Tool title="Agile">
-          I've been implementing the agile methodology for several years. My previous job taught it to me. I still remembering the day when the company's scrum master came to our team and told us that we could get better and bigger productivity and objetctives results by using that method. Turns out that she was absolutly right. With our photography team we were able to positive scale the company's kpi's and also make restaurants and company's revenue go to the moon.
+          I've been implementing the agile methodology for several years. My previous job taught it to me. I still remembering the day when the company's scrum master came to our team and told us that we could get better and bigger productivity and objetctives results by using that method. Turns out that she was absolutly right. With our photography team we were able to positive scale the company's kpi's and also make restaurants and company's revenue increase.
           </Tool>
         </ToolsSection>
       </div>
