@@ -284,7 +284,7 @@ export default async function Home() {
             UX|UI designer aspiring Product Design.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            I’m Ignacio, a freelance graphic and UX|UI designer based in Montevideo, Uruguay. 
+            I’m Ignacio, a freelance graphic and UX|UI designer and photographer based in Montevideo, Uruguay. 
             Proactive learner committed to continuously improving my knowledge and experience in the areas I am passionate about.
           </p>
           <div className="mt-6 flex gap-6">
