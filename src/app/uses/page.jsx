@@ -65,9 +65,7 @@ export default function Uses() {
             the collaboration features to be the real hook
           </Tool>
           <Tool title="Google Slides">
-          I started using Figma as just a design tool but now it’s become my
-            virtual whiteboard for plenty of my jobs. Never would have expected
-            the collaboration features to be the real hook
+          I use Google Slides to quickly create and present dynamic designs that are easy to collaborate on and share with clients.
           </Tool>
         </ToolsSection>
         <ToolsSection title="Productivity">
