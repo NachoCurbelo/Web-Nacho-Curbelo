@@ -11,11 +11,7 @@ export const metadata = {
   },
   description:
     'I’m Ignacio, graphic and uxui freelance designer, arpiring product designing. I’m the founder and CEO of Planetaria, where we develop technologies that empower regular people to explore space on their own terms.',
-  alternates: {
-    types: {
-      'application/rss+xml': `${process.env.NEXT_PUBLIC_SITE_URL}/feed.xml`,
-    },
-  },
+  icons: { icon: '/favicon.ico' },
 }
 
 export default function RootLayout({ children }) {
