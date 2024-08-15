@@ -55,14 +55,10 @@ export default function Uses() {
             the collaboration features to be the real hook
           </Tool>
           <Tool title="Creative Suit">
-          I started using Figma as just a design tool but now it’s become my
-            virtual whiteboard for plenty of my jobs. Never would have expected
-            the collaboration features to be the real hook
+          I primarily use Photoshop, Illustrator, and Lightroom. I started using them early on in my graphic design journey.
           </Tool>
           <Tool title="Spline">
-          I started using Figma as just a design tool but now it’s become my
-            virtual whiteboard for plenty of my jobs. Never would have expected
-            the collaboration features to be the real hook
+          I started using Spline because i consider its the best and simple 3D tool that could make designs more engaging and fun.
           </Tool>
           <Tool title="Google Slides">
           I use Google Slides to quickly create and present dynamic designs that are easy to collaborate on and share with clients.
