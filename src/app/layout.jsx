@@ -4,6 +4,7 @@ import { Layout } from '@/components/Layout'
 import '@/styles/tailwind.css'
 
 export const metadata = {
+  metadataBase: new URL('https://ignaciocurbelo.design'),
   title: {
     template: '%s - Ignacio Curbelo',
     default:
